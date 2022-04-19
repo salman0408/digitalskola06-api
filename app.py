@@ -1,5 +1,3 @@
-lines (7 sloc)  217 Bytes
-   
 from flask import Flask, jsonify
 
 app = Flask(__name__)
